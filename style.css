@@ -24,6 +24,11 @@ span{
     font-family:Arial Black, Helvetica, sans-serif;
    
 }
+
+.top-container .mountain {
+    width:70%;
+}
+
 #skill-row{
     margin-left: auto;
     margin-right: auto;
